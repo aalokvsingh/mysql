@@ -38,22 +38,6 @@
 <code>[mysql dir]/bin/mysqldump -c -u username -p databasename tablename > /tmp/databasename.tablename.sql</code>
 <br/><br/>
 <b>Restore database/import (or database table) from backup.</b><br/>
-<code>mysql dir]/bin/mysql -u username -ppassword databasename < /tmp/databasename.sql</code>
+<code>mysql dir]/bin/mysql -u username -p databasename < /tmp/databasename.sql</code>
 <br/><br/>
-<b></b>
-<code></code>
-<br/><br/>
-<b></b>
-<code></code>
-<br/><br/>
-<b></b>
-<code></code>
-<br/><br/>
-<b></b>
-<code></code>
-<br/><br/>
-<b></b>
-<code></code>
-<br/><br/>
-<b></b>
-<code></code>
+
