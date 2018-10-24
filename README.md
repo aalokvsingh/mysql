@@ -1,42 +1,48 @@
 
-What is Data?
+<b>What is Data?</b><br/>
 Data, in the context of databases, refers to all the single items that are stored in a database.
 For example your name, age, height, weight, etc are some data related to you.
-What is a Database?
+
+<br/><b>What is a Database?</b><br/>
 A database is a collection of data that is organized in such a way that it can be easily accessed, managed and updated.
 E.g: Facebook have database to store all user’s data and their friend’s data into tables.
 
-What is a Database Management System (DBMS)?
+<br/><b>What is a Database Management System (DBMS)?</b><br/>
 Database Management System (DBMS) is a collection of programs that enables its users to create, read, update and delete data in a database. It also helps to control access to the  database.
 
 The DBMS serves as an interface between the database and end users or application programs, ensuring that data is consistently organized and remains easily accessible.
 
 
 
-Popular types of DBMS
 
-Relational database management system (RDMS)
+<b>Popular types of DBMS</b><br/>
+<b>Relational database management system (RDMS)</b><br/>
+
 A relational database management system (RDBMS) stores the data in tabular form with additional condition of data that enforces relationships among the tables.
 RDBMS defines the integrity constraint for the purpose of holding ACID PROPERTY
 In RDBMS, normalization process will be present to check the database table consistency.
 E.g: Mysql,Oralce, Ms SQL Server, Sybase
-NoSQL DBMS
 
-What is SQL?
+<br/><b>NoSQL DBMS</b><br/>
+
+
+<br/><b>What is SQL?</b><br/>
 SQL stands for Structured Query language is  a standard language for accessing and manipulating relational databases.
 SQL can be used to insert, search, update, delete records relational database.
 
-What is MySQL?
+<br/><b>What is MySQL?</b><br/>
 MySQL is an open source relational database. MySQL is cross platform which means it runs on a number of different platforms such as Windows, Linux, and Mac OS etc.
 
-Why use MySQL?
+
+<br/><b>Why use MySQL?</b><br/>
 There are number of factor I choose Mysql over other relational database management system.
 
 MySQL can be run on Windows, UNIX and Mac OS.
 It is developed by Oracle and freely available for personal use via ‘MySQL Community Server’ 
 MySQL has high performance compared to other relation database systems. This is due to its simplicity in design and support for multiple-storage engines.
 
-SQL Commands:
+
+<br/><b>SQL Commands:</b><br/>
 SQL commands are divided into four subgroups, DDL, DML, DCL, and TCL.
 
 
